@@ -10,13 +10,6 @@ You will find two folders in the repository:
 
 You are required to implement the following within these folders.
 
-## Project Structure
-You will find two folders in the repository:
-- `api`
-- `client`
-
-You are required to implement the following within these folders.
-
 ## Task Description
 
 ### API Project
