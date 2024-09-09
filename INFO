@@ -1,0 +1,12 @@
+How to run the project:
+  For the api go to the folder interview\API_todoList\api\TodoList_api and run on the terminal dotnet run.
+  For the client go to the folder interview\API_todoList\client\Todolist_Client and run on the terminal npm run dev.
+
+Status of the project:
+The api can update the database
+The client cannot fetch data from or to the database. The error is located to this part of the code: 
+  const response = await  axios.post('/api/task', newTask);
+  tasks.value.push(response.data)  // Add the new task to the list
+
+The push value expects an array , but the response is an html page. I am working on it to find why
+
