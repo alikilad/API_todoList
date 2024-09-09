@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ladeaa\\Desktop\\!API_todoList\\interview-assignment\\api\\TodoList_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88976373-BDC5-43BF-9768-E63523654C69}|todolist_API\\todolist_API.csproj|c:\\users\\ladeaa\\desktop\\!api_todolist\\interview-assignment\\api\\todolist_api\\todolist_api\\models\\todo_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88976373-BDC5-43BF-9768-E63523654C69}|todolist_API\\todolist_API.csproj|solutionrelative:todolist_api\\models\\todo_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "todo_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ladeaa\\Desktop\\!API_todoList\\interview-assignment\\api\\TodoList_api\\todolist_API\\Models\\todo_DbContext.cs",
+              "RelativeDocumentMoniker": "todolist_API\\Models\\todo_DbContext.cs",
+              "ToolTip": "C:\\Users\\ladeaa\\Desktop\\!API_todoList\\interview-assignment\\api\\TodoList_api\\todolist_API\\Models\\todo_DbContext.cs",
+              "RelativeToolTip": "todolist_API\\Models\\todo_DbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:17:01.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
